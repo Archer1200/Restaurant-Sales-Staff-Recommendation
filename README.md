@@ -32,4 +32,33 @@ pip install streamlit pandas numpy scikit-learn
 streamlit run "Intership project/test.py"
 ```
 **The app will open in your browser.**
+
+**How It Works**
+```
+1.Upload historical restaurant sales data.**
+2.Data preprocessing:
+  -Convert Date into DayOfWeek
+  -Encode Weather
+  -Convert Holiday (Yes/No → 1/0)
+3.Train Random Forest model.
+4.Predict future sales.
+5.Calculate required staff.
+6.Download staff planning CSV file.
+```
+** Future Improvements**
+```
+  -Add real weather API integration
+  -Add holiday calendar integration
+  -Deploy on Streamlit Cloud
+  -Add interactive charts
+  -Improve UI/UX design
+```
+
+**License**
+```
+This project is for educational and internship purposes.
+```
+  
 ---
+
+
