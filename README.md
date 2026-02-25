@@ -11,7 +11,7 @@ Restaurant-Sales-Staff-Recommendation/
 │
 ├── .github/workflows/
 ├── README.md
-
+```
 1.**Clone the Repository**
 ```
 git clone https://github.com/your-username/Restaurant-Sales-Staff-Recommendation.git
