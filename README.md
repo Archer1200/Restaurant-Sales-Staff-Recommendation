@@ -1,7 +1,7 @@
 # Restaurant-Sales-Staff-Recommendation
 ---
 **Folder Structure**
----
+```
 Restaurant-Sales-Staff-Recommendation/
 │
 ├── Intership project/
