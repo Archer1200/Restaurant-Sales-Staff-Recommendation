@@ -1,5 +1,5 @@
 # Restaurant-Sales-Staff-Recommendation
-
+---
 ---
 Restaurant-Sales-Staff-Recommendation/
 │
@@ -18,3 +18,6 @@ cd Restaurant-Sales-Staff-Recommendation
 Create Virtual Environment (Optional but Recommended)
 python -m venv venv
 venv\Scripts\activate   # Windows
+
+---
+---
